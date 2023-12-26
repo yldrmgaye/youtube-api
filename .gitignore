@@ -2,5 +2,7 @@
 .conda
 
 # configurations
-config
+config.py
 __pycache__
+
+

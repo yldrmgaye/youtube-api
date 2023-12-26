@@ -1,3 +1,6 @@
 .vs code
 .conda
 
+# configurations
+config
+__pycache__
